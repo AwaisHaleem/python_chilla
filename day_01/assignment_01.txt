@@ -1,0 +1,3 @@
+DMAS - Division, Multiplication, Addition, Subtraction
+BODMAS - Brackets, Orders(exponents), Division, Multiplication, Addition, Subtraction
+PEDMAS - Parenthesis, Exponents, Division, Multiplication, Addition, Subtraction
