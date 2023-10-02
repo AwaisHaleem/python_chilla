@@ -6,17 +6,17 @@
 # not equal to !=
 
 
-# print(4 == 4)
-# print(4 < 6)
-# print(6>4)
-# print(6 >= 4)
-# print(6 <= 4)
-# print(6 != 4)
+print(4 == 4)
+print(4 < 6)
+print(6>4)
+print(6 >= 4)
+print(6 <= 4)
+print(6 != 4)
 
 
-# hamad_age = 4
-# school_age = 5
-# print(hamad_age == school_age)
+hamad_age = 4
+school_age = 5
+print(hamad_age == school_age)
 
 # input fucntion and operator
 school_age = 5
